@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Łukasz! 
 
-#### **I like Front-End , good food and music, currently learning 🌱 Next.js with Typescript and all around popular stuff. For now, I'm looking for 🔭 job as junior Front-End developer.**
+#### **I like Front-End (team React :yellow_heart:) , good food and music, currently learning 🌱 Next.js with Typescript and all around popular stuff. For now, I'm looking for 🔭 job as junior Front-End developer.**
 
  [![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=kontakt@kochanski.dev)](https://mail.google.com/mail/?view=cm&fs=1&to=kontakt@kochanski.dev) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-kochański)](https://www.linkedin.com/in/łukasz-kochański)
 
