@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Łukasz! 
 
-#### **I like Front-End (team React :yellow_heart:) , ramen in all shapes :ramen: and music, currently learning Next.js and headles CMS Strapi, with Typescript and all around popular stuff.**
+#### I'm growth oriented Frontend developer with background as a UX/UI graphic designer, working in Javascript based technologies.**
 
- [![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=kontakt@kochanski.dev)](https://mail.google.com/mail/?view=cm&fs=1&to=kontakt@kochanski.dev) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-kochański)](https://www.linkedin.com/in/łukasz-kochański)
+ [![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=kontakt@kochanski.dev)](https://mail.google.com/mail/?view=cm&fs=1&to=kontakt@kochanski.dev) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-kochański)](https://www.linkedin.com/in/l-kochanski)
 
 
 
